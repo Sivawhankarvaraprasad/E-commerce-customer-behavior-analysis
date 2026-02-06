@@ -98,27 +98,6 @@ Highlighted high-revenue products
 
 Discovered customer retention opportunities
 
-▶️ How to Run This Project
-
-Clone the repository
-
-git clone https://github.com/your-username/project-name.git
-
-Open the Jupyter Notebook
-
-Install required libraries
-
-pip install pandas numpy matplotlib seaborn
-
-Run the notebook step by step
-
-Execute SQL scripts in PostgreSQL/MySQL
-
-Open Power BI file to view the dashboard
-
-📌 Dashboard Preview
-
-(Add Power BI dashboard screenshots here)
 
 🎯 Conclusion
 
